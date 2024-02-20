@@ -3,7 +3,7 @@
 1. In the dev.azure.com -> Goto Repos -> Files -> Import -> Clone URL - `https://github.com/dockersamples/example-voting-app.git`
 
 
-2. Azure DevOps makes the default branch alphabetically So -> Reops -> Branches -> Select the Branch - main -> 3 dots and select Set as default branch 
+2. Azure DevOps makes the default branch alphabetically So -> Reops -> Branches -> Select the Branch - main -> 3 dots and select Set as the default branch 
 
 
 3. Now goto portal.azure.com -> Resouce group -> Create -> Name - azurecicd -> Click on Review + create
