@@ -1,4 +1,4 @@
-# Azure_DevOps_ArgoCD_CI 
+# Azure_DevOps_ArgoCD_CI  
 
 1. In the dev.azure.com -> Goto Repos -> Files -> Import -> Clone URL - `https://github.com/dockersamples/example-voting-app.git`
 
