@@ -5,7 +5,7 @@
    
 2. Azure DevOps makes the default branch alphabetically So -> Reops -> Branches -> Select the Branch - main -> 3 dots and select Set as the default branch 
 
-
+ 
 3. Now goto portal.azure.com -> Resouce group -> Create -> Name - azurecicd -> Click on Review + create
 
 
