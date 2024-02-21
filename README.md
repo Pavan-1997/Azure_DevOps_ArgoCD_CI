@@ -2,7 +2,7 @@
 
 1. In the dev.azure.com -> Goto Repos -> Files -> Import -> Clone URL - `https://github.com/dockersamples/example-voting-app.git`
 
-  
+   
 2. Azure DevOps makes the default branch alphabetically So -> Reops -> Branches -> Select the Branch - main -> 3 dots and select Set as the default branch 
 
 
