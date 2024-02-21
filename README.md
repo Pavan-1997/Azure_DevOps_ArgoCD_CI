@@ -7,7 +7,7 @@
 
   
 3. Now goto portal.azure.com -> Resouce group -> Create -> Name - azurecicd -> Click on Review + create
- 
+  
  
 4. In portal.azure.com -> Container registry -> Create -> Resouce group - azurecicd -> Registry name - pavanazurecicd -> Click on Review + create
 
